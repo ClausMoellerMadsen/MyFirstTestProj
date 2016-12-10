@@ -4,7 +4,8 @@ My first commit
 
 Hej mor
 
+Second commit i branch1
 
 
 
-Change done in master
+
