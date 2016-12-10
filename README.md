@@ -2,4 +2,6 @@
 
 My first commit
 
-Hej mor 
+Hej mor
+
+Second commit i branch1
